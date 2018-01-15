@@ -1,0 +1,10 @@
+D:\emissions\Project\Emissions\Emissions\bin\Debug\Emissions.exe.config
+D:\emissions\Project\Emissions\Emissions\bin\Debug\Emissions.exe
+D:\emissions\Project\Emissions\Emissions\bin\Debug\Emissions.pdb
+D:\emissions\Project\Emissions\Emissions\obj\Debug\Emissions.csprojResolveAssemblyReference.cache
+D:\emissions\Project\Emissions\Emissions\obj\Debug\Emissions.Form1.resources
+D:\emissions\Project\Emissions\Emissions\obj\Debug\Emissions.Properties.Resources.resources
+D:\emissions\Project\Emissions\Emissions\obj\Debug\Emissions.csproj.GenerateResource.Cache
+D:\emissions\Project\Emissions\Emissions\obj\Debug\Emissions.csproj.CoreCompileInputs.cache
+D:\emissions\Project\Emissions\Emissions\obj\Debug\Emissions.exe
+D:\emissions\Project\Emissions\Emissions\obj\Debug\Emissions.pdb
